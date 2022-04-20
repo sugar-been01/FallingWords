@@ -1,2 +1,3 @@
 # FallingWords
-# make app to run the app
+# to run: "make app" on your terminal
+

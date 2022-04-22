@@ -1,5 +1,5 @@
 # fallingwords
-#fallingWords is a typing game .
+fallingWords is a typing game .
 # How to run:
-#"make app" on your terminal
+"make app" on your terminal
 

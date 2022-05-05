@@ -1,5 +1,5 @@
 # fallingwords
-fallingWords is a typing game implemented in Java and demonstrates the concepts of Parallel and Concurrent Programming.
+fallingWords is a typing game implemented in Java.
 
 ## complie
 > make 
